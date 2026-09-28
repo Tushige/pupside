@@ -1,0 +1,10 @@
+{
+  "name": "@pupside/web",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@pupside/shared": "workspace:*"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+apps/*/src/generated/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo

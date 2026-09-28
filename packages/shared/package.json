@@ -1,0 +1,7 @@
+{
+  "name": "@pupside/shared",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {}
+}

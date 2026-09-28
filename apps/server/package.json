@@ -1,0 +1,12 @@
+{
+  "name": "@pupside/server",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@pupside/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "tsx": "4.23.13"
+  }
+}
