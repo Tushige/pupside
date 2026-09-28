@@ -2,6 +2,8 @@
   "name": "@pupside/shared",
   "private": true,
   "type": "module",
-  "exports": {},
+  "exports": {
+    "./paths": "./src/paths.ts"
+  },
   "dependencies": {}
 }

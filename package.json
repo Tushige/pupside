@@ -6,7 +6,10 @@
   "engines": {
     "node": "24.x"
   },
-  "scripts": {},
+  "scripts": {
+    "typecheck": "tsc --build",
+    "test": "vitest run"
+  },
   "devDependencies": {
     "@types/node": "24.13.6",
     "typescript": "6.0.3",
